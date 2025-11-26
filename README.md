@@ -1,0 +1,2 @@
+# Email-Security-Checker---V-rification-des-violations-de-donn-es
+L'application **Email Security Checker** permet de vérifier si vos e-mails ont été compromis lors de violations de données. En utilisant les bases de données, elle détecte les expositions d'informations sensibles. Développée avec React, l'application propose une interface fluide pour analyser un ou plusieurs comptes rapidement et facilement.
